@@ -8,22 +8,41 @@ The Problem The data contains information regarding mobile phone features, speci
 
 The data features are as follows:
 1 Battery Power in MAH
+
 2 Has Bluetooth or not
+
 3 Microprocessor clock speed
+
 4 The phone has dual sim support or not
+
 5 Front Camera Megapixels
+
 6 Has 4G support or not
+
 7 Internal Memory in Gigabytes
+
 8 Mobile Depth in Cm
+
 9 Weight of Mobile Phone
+
 10 Number of processor
+
 11 Primary Camera Megapixels
+
 12 Pixel Resolution height
+
 13 Pixel resolution width
+
 14 RAM in MB
+
 15 Mobile screen height in cm
+
 16 Mobile screen width in cm
+
 17 Longest time after a single charge
+
 18 3g or not
+
 19 Has touch screen or not
+
 20 Has WIFI or not Methodology We will proceed with reading the data, and then perform data analysis. The practice of examining data using analytical or statistical methods in order to identify meaningful information is known as data analysis. After data analysis, we will find out the data distribution and data types. We will train 4 classification algorithms to predict the output. We will also compare the outcomes. Let us get started with the project implementation.
