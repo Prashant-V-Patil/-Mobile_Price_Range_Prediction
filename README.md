@@ -7,6 +7,7 @@ Mobile phones come in all sorts of prices, features, specifications, etc. Price 
 The Problem The data contains information regarding mobile phone features, specifications, etc, and their price range. The various features and information can be used to predict the price range of a mobile phone.
 
 The data features are as follows:
+
 1 Battery Power in MAH
 
 2 Has Bluetooth or not
